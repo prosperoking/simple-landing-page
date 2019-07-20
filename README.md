@@ -1,1 +1,1 @@
-# simple-landing-page
+# A simple-landing-page for a funiture buisness
